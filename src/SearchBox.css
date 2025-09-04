@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background: #f5f7fa; /* Optional: subtle background */
+}
+
+.search-box {
+    max-width: 400px;
+    margin: 1rem auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+    text-align: center;
+    background: #fff;
+}
+.h3{
+    text-align: center;
+    color: #1976d2;
+    margin-bottom: 12px;
+    margin-top: 2px;
+}
